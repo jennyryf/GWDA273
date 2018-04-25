@@ -1,0 +1,37 @@
+body {
+	background-color: maroon;
+}
+
+.box{
+	width:100px;
+	height:100px;
+	background-color:teal;
+	text-align:center;
+	font-size:30px;
+	color:white;
+	border:10px solid black;
+}
+
+.rel{
+	background-color:red;
+}
+
+.abs{
+background-color:green;
+}
+
+.fix{
+	background-color:blue;
+}
+
+.box4{
+	background-color:purple;
+}
+
+.box2{
+	background-color:pink;
+}
+
+.box3{
+	border:20px solid black;
+}

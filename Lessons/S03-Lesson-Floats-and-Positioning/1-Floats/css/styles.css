@@ -1,0 +1,71 @@
+body {
+	background-color: #eee;
+}
+
+.wrapper{
+	background-color:teal;
+	width:800px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+header{
+	
+	padding:20px;
+	background-color:maroon;
+}
+
+main{
+	padding:20px;
+	background-color: gray;
+}
+section{
+	padding:20px;
+	background-color: goldenrod;
+	margin-bottom: 20px;
+}
+footer{
+	padding:20px;
+	background-color: maroon;
+}
+
+img.smaller{
+	width:150px;
+}
+
+main{
+	float:left;
+}
+section.last{
+	float:left;
+	width:720px;
+}
+
+p{
+text-align: justify;
+}
+
+#girl1{	
+	float:right;
+}
+
+#girl2{	
+	float:right;
+}
+
+#girl3{	
+	float:left;
+}
+
+#girl4{	
+	float:right;
+}
+
+
+#girl4{	
+	float:left;
+}
+
+footer{
+	clear:both;
+}
